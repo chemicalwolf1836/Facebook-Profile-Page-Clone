@@ -1,0 +1,12 @@
+#photo> img{
+ border: 2px solid blue;
+}   
+#blog h1 {
+ color: blue;
+}
+h2.navigation{
+    color: grey;
+}
+div{
+    margin:4px;
+}
